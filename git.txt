@@ -2,6 +2,6 @@ favourite cricket palyer
 virat kohili
 m s dhoni
 hardik pandya 
-rohit shrama 
+rohit sharma 
 patirana
-kl rahul 
+kl rahul git check out -v 
